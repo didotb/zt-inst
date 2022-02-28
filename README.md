@@ -1,4 +1,4 @@
-# Instructions
+# VPN Installation Instructions
 
 ### Register an account (OPTIONAL)
 
