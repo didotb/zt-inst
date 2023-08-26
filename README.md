@@ -32,4 +32,13 @@
 
 #
 
+### Allow DNS Configuration
+
+Most servers are at `http://cloudbar.local` or `http://d.b`, URLs that are not accessible in public. You need to use ZeroTier to access these servers.
+1. Right-click the ZeroTier icon at the taskbar
+2. Hover over `cloudbar vpn`
+3. Make sure `Allow DNS Configuration` is checked
+
+![image instruction](https://i.imgur.com/h85GVaI.png)
+
 # You are done
